@@ -23,6 +23,7 @@
     "react-dom": "18.1.0",
     "react-icons": "^4.3.1",
     "wagmi": "^0.3.3",
+    "respository": "git+https://<brdglabs>:<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>@github.com/<brdglabs>/<nft__dapp-main_NC-Test>.git",
     "web3": "^1.7.3"
   },
   "devDependencies": {
